@@ -203,3 +203,4 @@ Built by [@brodyautomates](https://github.com/brodyautomates)
 ## Disclaimer
 
 This project is for **entertainment and educational purposes only**. It is not financial advice. The authors are not responsible for any financial losses incurred through the use of this software. Prediction market trading carries significant risk — you can lose money. Never trade with funds you cannot afford to lose. Past performance of any strategy does not guarantee future results. Use at your own risk.
+# polymarkett
