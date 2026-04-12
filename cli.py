@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Polymarket Pipeline — CLI Interface
-
 Usage:
     python cli.py watch                # V2: Event-driven pipeline (real-time news → classify → trade)
     python cli.py watch --live         # V2: With live trading
