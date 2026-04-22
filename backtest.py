@@ -3,7 +3,6 @@ Backtest engine — validate the V2 strategy against historical data.
 Replays resolved markets with their news coverage through the classifier.
 """
 from __future__ import annotations
-
 import time
 import logging
 from dataclasses import dataclass
